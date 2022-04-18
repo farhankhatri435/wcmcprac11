@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "362613121268",
+    "project_id": "wcmcprac10",
+    "storage_bucket": "wcmcprac10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362613121268:android:651fe4f980d7236e54fea1",
+        "android_client_info": {
+          "package_name": "com.example.p10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362613121268-bjmpaskildq3ig81e4229r3bch6tj5hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkFFWx88BltKC6FW4AkJTWp-8otgjJNrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362613121268-bjmpaskildq3ig81e4229r3bch6tj5hm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
